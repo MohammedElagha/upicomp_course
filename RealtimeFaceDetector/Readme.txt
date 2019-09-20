@@ -1,0 +1,1 @@
+You must install OpenCV Manager Package in Android Device.
